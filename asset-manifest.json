@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ros-react/static/css/main.e6c13ad2.css",
+    "main.css": "/ros-react/static/css/main.e595c74a.css",
     "main.js": "/ros-react/static/js/main.66b7b28d.js",
     "static/js/787.2e5b15a2.chunk.js": "/ros-react/static/js/787.2e5b15a2.chunk.js",
     "index.html": "/ros-react/index.html",
-    "main.e6c13ad2.css.map": "/ros-react/static/css/main.e6c13ad2.css.map",
+    "main.e595c74a.css.map": "/ros-react/static/css/main.e595c74a.css.map",
     "main.66b7b28d.js.map": "/ros-react/static/js/main.66b7b28d.js.map",
     "787.2e5b15a2.chunk.js.map": "/ros-react/static/js/787.2e5b15a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
+    "static/css/main.e595c74a.css",
     "static/js/main.66b7b28d.js"
   ]
 }
