@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.5006abd3.css",
-    "main.js": "/static/js/main.0bddd0f7.js",
-    "static/js/787.2e5b15a2.chunk.js": "/static/js/787.2e5b15a2.chunk.js",
-    "static/media/logo01.png": "/static/media/logo01.7295c812462048773a83.png",
-    "index.html": "/index.html",
-    "main.5006abd3.css.map": "/static/css/main.5006abd3.css.map",
-    "main.0bddd0f7.js.map": "/static/js/main.0bddd0f7.js.map",
-    "787.2e5b15a2.chunk.js.map": "/static/js/787.2e5b15a2.chunk.js.map"
+    "main.css": "/ros-react/static/css/main.5006abd3.css",
+    "main.js": "/ros-react/static/js/main.b81eded4.js",
+    "static/js/787.2e5b15a2.chunk.js": "/ros-react/static/js/787.2e5b15a2.chunk.js",
+    "static/media/logo01.png": "/ros-react/static/media/logo01.7295c812462048773a83.png",
+    "index.html": "/ros-react/index.html",
+    "main.5006abd3.css.map": "/ros-react/static/css/main.5006abd3.css.map",
+    "main.b81eded4.js.map": "/ros-react/static/js/main.b81eded4.js.map",
+    "787.2e5b15a2.chunk.js.map": "/ros-react/static/js/787.2e5b15a2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5006abd3.css",
-    "static/js/main.0bddd0f7.js"
+    "static/js/main.b81eded4.js"
   ]
 }
