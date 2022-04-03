@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/ros-react/static/css/main.073c9b0a.css",
-    "main.js": "/ros-react/static/js/main.93d0f019.js",
+    "main.css": "/ros-react/static/css/main.e6c13ad2.css",
+    "main.js": "/ros-react/static/js/main.be2c73a6.js",
     "static/js/787.2e5b15a2.chunk.js": "/ros-react/static/js/787.2e5b15a2.chunk.js",
-    "static/media/logo.svg": "/ros-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ros-react/index.html",
-    "main.073c9b0a.css.map": "/ros-react/static/css/main.073c9b0a.css.map",
-    "main.93d0f019.js.map": "/ros-react/static/js/main.93d0f019.js.map",
+    "main.e6c13ad2.css.map": "/ros-react/static/css/main.e6c13ad2.css.map",
+    "main.be2c73a6.js.map": "/ros-react/static/js/main.be2c73a6.js.map",
     "787.2e5b15a2.chunk.js.map": "/ros-react/static/js/787.2e5b15a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.93d0f019.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.be2c73a6.js"
   ]
 }
