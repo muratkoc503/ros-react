@@ -1,16 +1,21 @@
 {
   "files": {
-    "main.css": "/ros-react/static/css/main.5006abd3.css",
-    "main.js": "/ros-react/static/js/main.7ddbaa18.js",
+    "main.css": "/ros-react/static/css/main.46ec26cd.css",
+    "main.js": "/ros-react/static/js/main.04167063.js",
     "static/js/787.2e5b15a2.chunk.js": "/ros-react/static/js/787.2e5b15a2.chunk.js",
-    "static/media/logo01.png": "/ros-react/static/media/logo01.7295c812462048773a83.png",
+    "static/media/murat.jpg": "/ros-react/static/media/murat.9a291e69119de25ddd41.jpg",
+    "static/media/Esogu_logo.png": "/ros-react/static/media/Esogu_logo.42b61ffb81f9138db57f.png",
+    "static/media/ros_logo.png": "/ros-react/static/media/ros_logo.e0ea037a7cfc8097cd0b.png",
+    "static/media/mail.png": "/ros-react/static/media/mail.ac863c4a1efc2b9026dd.png",
+    "static/media/address.png": "/ros-react/static/media/address.4906495685f572af99d3.png",
+    "static/media/tel.png": "/ros-react/static/media/tel.2d58567ebded434744a5.png",
     "index.html": "/ros-react/index.html",
-    "main.5006abd3.css.map": "/ros-react/static/css/main.5006abd3.css.map",
-    "main.7ddbaa18.js.map": "/ros-react/static/js/main.7ddbaa18.js.map",
+    "main.46ec26cd.css.map": "/ros-react/static/css/main.46ec26cd.css.map",
+    "main.04167063.js.map": "/ros-react/static/js/main.04167063.js.map",
     "787.2e5b15a2.chunk.js.map": "/ros-react/static/js/787.2e5b15a2.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5006abd3.css",
-    "static/js/main.7ddbaa18.js"
+    "static/css/main.46ec26cd.css",
+    "static/js/main.04167063.js"
   ]
 }
